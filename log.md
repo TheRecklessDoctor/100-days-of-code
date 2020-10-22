@@ -1,16 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Ocotober 22,2020 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: worked on getting to know git and version control, plus getting familar with the command line.
 
+**Thoughts:** never thought i would get back to VCS and the command line as i found it very confusing. But hey, learning is a struggle yea.
 **Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
