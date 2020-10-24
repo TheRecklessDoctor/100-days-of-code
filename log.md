@@ -18,12 +18,9 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 3: October 24,2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I worked on the real basics of css(selectors and specificity) as well as working through basic and intermidiate css.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The last time i did css, i made the mistake of not going through the concepts properly and i properly ended up stuck. This time changed that.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
