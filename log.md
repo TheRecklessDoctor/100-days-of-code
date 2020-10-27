@@ -24,3 +24,18 @@
 
 **Thoughts** The last time i did css, i made the mistake of not going through the concepts properly and i properly ended up stuck. This time changed that.
 
+
+
+
+
+### Day 4: October 25,2020
+
+**Today's Progress**:css and the box-model
+**Thoughts** 
+
+
+### Day 6: October 26,2020
+
+**Today's Progress**: css linear-gradients and colors along with python practice on codewars.(6 kyu)
+
+**Thoughts** T
