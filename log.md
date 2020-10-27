@@ -34,8 +34,8 @@
 **Thoughts** 
 
 
-### Day 6: October 26,2020
+### Day 5: October 26,2020
 
 **Today's Progress**: css linear-gradients and colors along with python practice on codewars.(6 kyu)
 
-**Thoughts** T
+**Thoughts** 
